@@ -22,5 +22,5 @@ setup(
     ],
     packages=["mpl_scales"],
     python_requires=">=3.6",
-    install_requires=["matplotlib>=3.3"],
+    install_requires=["matplotlib>=3.0"],
 )
