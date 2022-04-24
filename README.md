@@ -29,7 +29,7 @@ Their arguments are;
   - `ticks`: the exact position of ticks (by List)
 - the format of tick lavels: set one of below
   - `format`: string foramt or callable which returns string
-  - `tick_labels`: each labels
+  - `tick_labels`: specify each labels directly
 
 for more usage see example notebook.
 
